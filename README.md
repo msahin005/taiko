@@ -1,0 +1,2 @@
+# taiko
+Taiko kurulum
